@@ -6,7 +6,8 @@
 ```
 uv: uv init
 pip: python -m venv venv
-``
+```
+
 ***Установка зависимостей*** 
 <br>
 <br>
