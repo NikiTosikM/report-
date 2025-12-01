@@ -4,7 +4,7 @@
 <br>
 1. Создаем окружение
 ```
-uv: uv init
+uv: uv venv
 pip: python -m venv venv
 ```
 
